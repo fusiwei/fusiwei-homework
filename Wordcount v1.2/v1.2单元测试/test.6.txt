@@ -1,0 +1,11 @@
+int d1=0,d2=0,d3=0;  /*d1,d2,d3分别表示“代码行”，“空行”，“注释行”*/
+    int word=0;        
+
+int  sen=0;          /*sen 为句子数*/
+ 
+   {
+int a,b,i,q1,q,q2,m=0,n=0,d4=0;
+    char wj[50];         /*保存输入的命令及文件名*/
+    char buf[MAX_LINE];  /*缓冲区*/
+    FILE *fp;            /*文件指针*/
+}
